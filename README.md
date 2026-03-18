@@ -2,11 +2,21 @@
 
 이미지를 자동으로 트레이싱하는 마우스 매크로 프로그램입니다.  
 Canny 엣지 검출 + 획(stroke) 기반 드래그로 그림판, 브라우저 캔버스 등 어디서든 그림을 자동으로 그립니다.
-
+---
 그림판 기준으로는 점선으로 그려지는 형식상의 문제가 있어
 펜 굵기가 굵은 상황에서 쓰면 좋습니다.
 특히, Slay the Spire 2 의 맵에서 그림을 그리는 기능에서 잘 작동함을 확인했습니다.
+
+##사용예시
+Slay the Spire2 에서
 ---
+<img width="2877" height="1582" alt="Image" src="https://github.com/user-attachments/assets/205ef029-6839-4cbb-8780-1b0a30fa0a29" />
+
+<img width="2875" height="1564" alt="Image" src="https://github.com/user-attachments/assets/dd9cf11f-6ca8-486d-a2d3-f3a89aec3408" />
+
+그림판에서
+---
+<img width="643" height="835" alt="Image" src="https://github.com/user-attachments/assets/174e8db0-f756-4ad7-88b2-f7662558fa0f" />
 
 ## 기능
 
