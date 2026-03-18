@@ -33,7 +33,7 @@ Slay the Spire2 에서
 
 ### 방법 1 — EXE (Python 불필요)
 
-[Releases](../../releases) 페이지에서 `AutoDrawer.exe` 다운로드 후 실행
+[Releases](../../releases) 페이지에서 `new.exe` 다운로드 후 실행
 
 ### 방법 2 — Python으로 직접 실행
 
