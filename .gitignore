@@ -1,0 +1,12 @@
+# 모든 py 파일 제외
+*.py
+
+# new.py만 허용
+!new.py
+
+# 기타 제외
+venv/
+__pycache__/
+dist/
+build/
+*.spec
